@@ -42,4 +42,4 @@
 ]
 ```
 
-Crédito a quién corresponda. Esta idea proviende el README de  [@BretFisher](https://github.com/BretFisher)
+Crédito a quién corresponda. Esta idea proviende del README de  [@BretFisher](https://github.com/BretFisher)
